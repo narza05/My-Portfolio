@@ -21,13 +21,7 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 * Studio
 * Xampp
 
-#### Screenshots: 
-
- 
-
-
-
-
-
+#### Screenshots:
+![App Screenshot](https://github.com/narza05/schoolapp/blob/master/assets/banner.jpg)
 ![App Screenshot](https://github.com/narza05/schoolapp/blob/master/assets/banner.jpg)
 
