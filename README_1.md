@@ -22,7 +22,7 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 * Xampp
 
 #### Screenshots:
-![App Screenshot](https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-06%20at%2022.21.41.jpeg?w=200&h=100)
+![App Screenshot](https://github.com/narza05/schoolapp/blob/master/assets/home.jpeg)
 ![App Screenshot](https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-06%20at%2022.47.03.jpeg)
 ![App Screenshot](https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-23%20at%2018.55.31.jpeg)
 ![App Screenshot](https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-23%20at%2018.55.26.jpeg)
