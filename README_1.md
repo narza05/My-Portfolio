@@ -23,7 +23,6 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 
 #### Screenshots:
 
-<p><img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-06%20at%2022.21.41.jpeg" width="350" alt="accessibility text"></p>
-<p><img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-06%20at%2022.47.03.jpeg" width="350" alt="accessibility text"></p>
+<p><img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-06%20at%2022.21.41.jpeg" width="350" alt="accessibility text"></p><p><img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-06%20at%2022.47.03.jpeg" width="350" alt="accessibility text"></p>
 <p><img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-23%20at%2018.55.26.jpeg" width="350" alt="accessibility text"></p>
 <p><img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-23%20at%2018.55.31.jpeg" width="350" alt="accessibility text"></p>
