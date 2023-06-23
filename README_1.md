@@ -30,7 +30,7 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 ### Detailed Overview : [README](https://github.com/narza05/SchoolManagementSystem)
 
 
-====================================================================================================================================================================
+_______________________________________________________________________________________________________
 
 
 ## Project 2: Institute Mobile Application
