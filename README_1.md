@@ -21,10 +21,10 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 * Xampp
 
 #### Screenshots:
-<p><img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-06%20at%2022.21.41.jpeg" width="220" alt="accessibility text" style="margin-right: 10px;"/>
-  <img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-06%20at%2022.47.03.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
-<img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-23%20at%2018.55.26.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
-<img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-23%20at%2018.55.31.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/></p>
+<p><img src="https://github.com/narza05/SchoolManagementSystem/blob/main/assets/WhatsApp%20Image%202023-06-06%20at%2022.21.41.jpeg" width="220" alt="accessibility text" style="margin-right: 10px;"/>
+  <img src="https://github.com/narza05/SchoolManagementSystem/blob/master/assets/WhatsApp%20Image%202023-06-06%20at%2022.47.03.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
+<img src="https://github.com/narza05/SchoolManagementSystem/blob/master/assets/WhatsApp%20Image%202023-06-23%20at%2018.55.26.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
+<img src="https://github.com/narza05/SchoolManagementSystem/blob/master/assets/WhatsApp%20Image%202023-06-23%20at%2018.55.31.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/></p>
 
 
 ### Detailed Overview : [README](https://github.com/narza05/SchoolManagementSystem)
@@ -45,8 +45,8 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 * Android Studio
 
 #### Screenshots:
-<p><img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-23%20at%2022.47.03.jpeg" width="220" alt="accessibility text" style="margin-right: 10px;"/>
-  <img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-23%20at%2022.47.04.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/></p>
+<p><img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-23%20at%2022.47.04.jpeg" width="220" alt="accessibility text" style="margin-right: 10px;"/>
+  <img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-23%20at%2022.47.03.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/></p>
 
 
 ### Detailed Overview : [README](https://github.com/narza05/schoolapp)
