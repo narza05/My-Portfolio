@@ -77,3 +77,28 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 
 
 ### Detailed Overview : [README](https://github.com/narza05/Fitness-Application/blob/main/README.md)
+
+---
+
+
+## Technical Skills
+* Programming Languages: Java, Php, Dart
+* Frameworks: Flutter 
+* Tools: Android Studio,VsCode, Git, Postman, Xampp
+
+## Work Experience
+### VegaVid
+* Role: Android Developer Intern
+* Projects:
+  * Developed a Ed-tech application using Android Studio for developement, Sql as database, with the help of tools like Postman, Xammp, Vscode.
+  * Explore other apps to improve the performance and user experience of application.
+
+### Freelance
+* Role: Android Developer(backend) 
+* Projects:
+  * Developed a Ed-tech(convert text into video lecture) application using Flutter as framework, Android Studio for developement, Sql as database, with the help of tools like Postman, Xammp, Vscode.
+  * Explore other apps to improve the performance and user experience of application.
+
+
+
+
