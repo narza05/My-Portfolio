@@ -116,5 +116,11 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 * LinkedIn: [Ankush Saini](https://www.linkedin.com/in/ankush-saini-637846198/)
 
 
+Thank you for taking the time to explore my Android developer portfolio. I look forward to connecting with you and discussing potential collaborations. Please feel free to reach out to me through the contact information provided. Let's create remarkable experiences together in the world of Android development!
+
+Best regards,
+Ankush Saini
+
+
 
 
