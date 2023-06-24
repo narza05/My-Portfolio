@@ -86,18 +86,34 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 * Frameworks: Flutter 
 * Tools: Android Studio,VsCode, Git, Postman, Xampp
 
+---
+
 ## Work Experience
 ### VegaVid
 * Role: Android Developer Intern
-* Projects:
+* Project:
   * Developed a Ed-tech application using Android Studio for developement, Sql as database, with the help of tools like Postman, Xammp, Vscode.
   * Explore other apps to improve the performance and user experience of application.
 
 ### Freelance
 * Role: Android Developer(backend) 
-* Projects:
+* Project:
   * Developed a Ed-tech(convert text into video lecture) application using Flutter as framework, Android Studio for developement, Sql as database, with the help of tools like Postman, Xammp, Vscode.
-  * Explore other apps to improve the performance and user experience of application.
+
+---
+ 
+## Education
+
+* Diploma in Information Technology
+* Ambedkar Institute of Technology
+
+
+---
+
+
+## Contact Information
+* Email: ankushsaini05112002@gmail.com
+* LinkedIn: [Ankush Saini](https://www.linkedin.com/in/ankush-saini-637846198/)
 
 
 
