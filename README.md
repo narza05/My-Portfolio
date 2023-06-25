@@ -100,6 +100,10 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 * Project:
   * Developed a Ed-tech(convert text into video lecture) application using Flutter as framework, Android Studio for developement, Sql as database, with the help of tools like Postman, Xammp, Vscode.
 
+
+### Personal peojects
+
+
 ---
  
 ## Education
