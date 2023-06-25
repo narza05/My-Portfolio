@@ -102,6 +102,10 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 
 
 ### Personal peojects
+* Role: Android Developer
+* Projects:
+  * Ed-Tech Mobile Application
+  * Fitness Application
 
 
 ---
