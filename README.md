@@ -6,7 +6,7 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 
 ## Projects
 
-### Project 1: Ed-Tech Mobile Application
+### Project 1: LMS system
 #### Discription: 
 * An application used to streamline and automate various administrative tasks and processes within an educational institution
 * It serves as a centralized platform that allows school administrators, teachers, students, and parents to efficiently manage and access relevant information, enhancing overall communication and organization.
@@ -35,7 +35,7 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 
 
 
-## Project 2: Institute Mobile Application
+## Project 2: Ed-Tech Mobile Application
 #### Discription: 
 * An application used to manage an Institute's tasks effectivily. With features like Notes, Courses, Quiz, Conference etc. 
 
