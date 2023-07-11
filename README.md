@@ -10,6 +10,7 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 #### Discription: 
 * An application used to streamline and automate various administrative tasks and processes within an educational institution
 * It serves as a centralized platform that allows school administrators, teachers, students, and parents to efficiently manage and access relevant information, enhancing overall communication and organization.
+* Have around 25 features.
 
 #### Technologies & software Used: 
 * Java 
