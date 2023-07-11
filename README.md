@@ -6,7 +6,7 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 
 ## Projects
 
-### Project 1: LMS system
+### Project 1: LMS system(Internship project)
 #### Discription: 
 * An application used to streamline and automate various administrative tasks and processes within an educational institution
 * It serves as a centralized platform that allows school administrators, teachers, students, and parents to efficiently manage and access relevant information, enhancing overall communication and organization.
@@ -41,8 +41,7 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 ---
 
 
-
-## Project 2: Ed-Tech Mobile Application
+## Project 2: Ed-Tech Mobile Application(personal project)
 #### Discription: 
 * An application used to manage an Institute's tasks effectivily. With features like Notes, Courses, Quiz, Conference etc. 
 
@@ -71,7 +70,29 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 ---
 
 
-## Project 3: Fitness Mobile Application(In Progress)
+### Project 3: Ed-Tech Mobile Application(Freelance project)
+#### Discription: 
+* An application used by mainly teachers to generate video lectures from text document.
+* Homework, notes & quiz can also be generated from text document.
+
+#### Technologies & software Used: 
+* flutter 
+* dart
+* Php
+* Sql 
+* Firebase
+* Android Studio
+* Vs code
+* Xampp
+* Postman
+
+
+NO SCREENSHOTS(IN PROGRESS)
+
+---
+
+
+## Project 4: Fitness Mobile Application(In Progress)
 #### Discription: 
 * An application used to manage fitness related tasks like calories tracker. (Upcoming Features Workout Tracker) 
 
