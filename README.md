@@ -62,7 +62,10 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
   <img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-07-06%20at%2015.55.03.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
 <img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-07-06%20at%2015.55.04.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
 <img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-07-06%20at%2015.55.05.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
-  <img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-07-06%20at%2015.55.03%20(1).jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/></p>
+  <img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-07-06%20at%2015.55.03%20(1).jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
+  <img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-06-24%20at%2018.09.54.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
+  <img src="https://github.com/narza05/schoolapp/blob/master/assets/a3a27bdd-1bec-4ef7-8aff-0afaede924ab.jpg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
+  </p>
 
 
 ### Detailed Overview : [README](https://github.com/narza05/schoolapp/blob/master/README.md)
