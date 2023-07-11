@@ -11,14 +11,16 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 * An application used to streamline and automate various administrative tasks and processes within an educational institution
 * It serves as a centralized platform that allows school administrators, teachers, students, and parents to efficiently manage and access relevant information, enhancing overall communication and organization.
 
-#### Technologies Used: 
+#### Technologies & software Used: 
 * Java 
 * Xml 
 * Php
 * Sql 
 * Firebase
 * Android Studio
+* Vs code
 * Xampp
+* Postman
 
 #### Screenshots:
 <p><img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/WhatsApp%20Image%202023-06-06%20at%2022.21.41.jpeg" width="220" alt="accessibility text" style="margin-right: 10px;"/>
@@ -44,13 +46,16 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 #### Discription: 
 * An application used to manage an Institute's tasks effectivily. With features like Notes, Courses, Quiz, Conference etc. 
 
-#### Technologies Used: 
+#### Technologies & software Used: 
 * flutter 
 * Php
 * Sql 
 * Firebase
 * Xampp
 * Android Studio
+* Vs code
+* Xampp
+* Postman
 
 #### Screenshots:
 <p><img src="https://github.com/narza05/schoolapp/blob/master/assets/WhatsApp%20Image%202023-07-06%20at%2015.55.05%20(1).jpeg" width="220" alt="accessibility text" style="margin-right: 10px;"/>
@@ -70,12 +75,15 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 #### Discription: 
 * An application used to manage fitness related tasks like calories tracker. (Upcoming Features Workout Tracker) 
 
-#### Technologies Used: 
+#### Technologies & software Used: 
 * flutter 
 * Php
 * Sql 
 * Xampp
 * Android Studio
+* Vs code
+* Xampp
+* Postman
 
 #### Screenshots:
 <p><img src="https://github.com/narza05/Fitness-Application/blob/main/assets/WhatsApp%20Image%202023-06-24%20at%2013.10.47%20(2).jpeg" width="220" alt="accessibility text" style="margin-right: 10px;"/>
