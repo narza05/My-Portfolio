@@ -125,7 +125,7 @@ NO SCREENSHOTS(IN PROGRESS)
 ## Technical Skills
 * Programming Languages: Java, Php, Dart
 * Frameworks: Flutter 
-* Tools: Android Studio,VsCode, Git, Postman, Xampp
+* Tools: MySQL, Firebase, Android Studio,VsCode, Git, Postman, Xampp
 
 ---
 
