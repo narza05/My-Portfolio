@@ -24,7 +24,7 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 * Postman
 
 #### Screenshots:
-<p><img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/WhatsApp%20Image%202023-06-06%20at%2022.21.41.jpeg" width="220" alt="accessibility text" style="margin-right: 10px;"/>
+<p><img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/IMG_2407.MOV" width="220" alt="accessibility text" style="margin-right: 10px;"/>
   <img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/WhatsApp%20Image%202023-06-06%20at%2022.47.03.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
 <img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/WhatsApp%20Image%202023-07-05%20at%2017.02.36.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
 <img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/WhatsApp%20Image%202023-07-05%20at%2017.02.37%20(1).jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
