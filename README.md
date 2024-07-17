@@ -5,8 +5,40 @@
 Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a keen interest in building intuitive and user-friendly mobile applications. This portfolio showcases some of my projects and skills in the world of Android development.
 
 ## Projects
+### Project 1: Hotel/Property Management(Live)
+#### Discription: 
+* Application used for managing hospitality in a vacation spot.
+* Modules included in system are Order, Booking, Procurement and Billing management.
+* Being used on IOS, Web and Android. 
 
-### Project 1: LMS system(Internship project)
+#### Technologies & software Used: 
+* Flutter 
+* Dart 
+* Sql 
+* Firebase
+* Google cloud
+* Android Studio
+* Vs code
+* Xampp
+* Postman
+
+#### Screenshots:
+<p><img src="https://github.com/narza05/hotel_management/blob/0a3684a1dd11aaf2c96b7c6ca4d8188065694903/assets/booking.jpg" width="220" alt="accessibility text" style="margin-right: 10px;"/>
+  <img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/WhatsApp%20Image%202023-06-06%20at%2022.47.03.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
+<img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/WhatsApp%20Image%202023-07-05%20at%2017.02.36.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
+<img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/WhatsApp%20Image%202023-07-05%20at%2017.02.37%20(1).jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
+  <img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/WhatsApp%20Image%202023-07-05%20at%2017.02.37.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
+<img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/WhatsApp%20Image%202023-07-05%20at%2017.02.35%20(1).jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
+  <img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/WhatsApp%20Image%202023-07-05%20at%2017.02.34%20(1).jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
+  <img src="https://github.com/narza05/EdTech-MobileApplication/blob/main/assets/WhatsApp%20Image%202023-07-05%20at%2017.02.33.jpeg" width="220" alt="accessibility text"style="margin-right: 10px;"/>
+</p>
+
+
+
+---
+
+
+### Project 2: LMS system(Internship project)
 #### Discription: 
 * An application used to streamline and automate various administrative tasks and processes within an educational institution
 * It serves as a centralized platform that allows school administrators, teachers, students, and parents to efficiently manage and access relevant information, enhancing overall communication and organization.
@@ -42,7 +74,7 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 ---
 
 
-## Project 2: Ed-Tech Mobile Application(personal project)
+## Project 3: Ed-Tech Mobile Application(personal project)
 #### Discription: 
 * An application used to manage an Institute's tasks effectivily. With features like Notes, Courses, Quiz, Conference etc. 
 
@@ -74,7 +106,7 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 ---
 
 
-### Project 3: Ed-Tech Mobile Application(Freelance project)
+### Project 4: Ed-Tech Mobile Application(Freelance project)
 #### Discription: 
 * An application used by mainly teachers to generate video lectures from text document.
 * Homework, notes & quiz can also be generated from text document.
@@ -95,7 +127,7 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 ---
 
 
-## Project 4: Fitness Mobile Application(In Progress)
+## Project 5: Fitness Mobile Application(In Progress)
 #### Discription: 
 * An application used to manage fitness related tasks like calories tracker. (Upcoming Features Workout Tracker) 
 
