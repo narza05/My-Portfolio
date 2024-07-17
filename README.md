@@ -91,7 +91,6 @@ Welcome to my portfolio! I'm Ankush Saini, a passionate Android developer with a
 * Postman
 
 
-NO SCREENSHOTS(IN PROGRESS)
 
 ---
 
